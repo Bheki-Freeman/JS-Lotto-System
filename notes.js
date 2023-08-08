@@ -21,7 +21,8 @@
  * User must be able to see their deposits, line bets, number of wins and losses and potential jackpots
  * **************************************
  * So, Users cannot collect their profits until a given number (spins ) is hit, reached
- * If a user tries to collect, they will be denied
+ * If a user tries to collect, they will be denied unless they have reached the maximum number of spins
+ * 
  * 
  * 
  */
