@@ -1,0 +1,1 @@
+console.log(`Eventually running javascript for a lotto machine`);
